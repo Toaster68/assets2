@@ -1,5 +1,17 @@
 [
   {
+    "id": -1,
+    "name": "Five Nights at Epstein's",
+    "cover": "{COVER_URL}/710.png",
+    "url": "{HTML_URL}/710-fix.html",
+    "author": "EvanProductions",
+    "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+  {
     "id": 0,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
