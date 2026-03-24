@@ -6377,13 +6377,5 @@
     "url": "{HTML_URL}/725-ff.html",
     "author": "Shredsauce Team",
     "authorLink": "https://shredsauce.com"
-  },
-  {
-    "id": -1,
-    "name": "March Madness",
-    "cover": "{COVER_URL}/mm.png",
-    "url": "{HTML_URL}/mm.html",
-    "author": "Noblestreet",
-    "authorLink": "https://owncast.online/"
   }
 ]
