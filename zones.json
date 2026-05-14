@@ -1,5 +1,11 @@
 [
   {
+    "id": -1,
+    "name": "[!] SUGGEST GAMES .gg/D4c9VFYWyU",
+    "cover": "{COVER_URL}/dc.png",
+    "url": "https://discord.gg/D4c9VFYWyU"
+  },
+  {
     "id": 0,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
@@ -11,7 +17,7 @@
     "id": 1,
     "name": "OvO",
     "cover": "{COVER_URL}/1.png",
-    "url": "{HTML_URL}/1-a.html",
+    "url": "{HTML_URL}/1-fde.html",
     "author": "Dedra Games",
     "authorLink": "https://dedragames.com"
   },
@@ -211,7 +217,7 @@
     "id": 27,
     "name": "Geometry Dash Lite (REMAKE)",
     "cover": "{COVER_URL}/27.png",
-    "url": "{HTML_URL}/27.html",
+    "url": "{HTML_URL}/27-f.html",
     "author": "RobTop Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite"
   },
@@ -351,7 +357,7 @@
     "id": 44,
     "name": "Ragdoll Hit",
     "cover": "{COVER_URL}/44.png",
-    "url": "{HTML_URL}/44.html",
+    "url": "{HTML_URL}/44-fix.html",
     "author": "Kids Games LLC",
     "authorLink": "https://play.google.com/store/apps/dev?id=6566434917716295659&hl=en_US"
   },
@@ -521,7 +527,7 @@
     "id": 64,
     "name": "Backrooms",
     "cover": "{COVER_URL}/64.png",
-    "url": "{HTML_URL}/64.html",
+    "url": "{HTML_URL}/64-fix.html",
     "author": "Esyverse",
     "authorLink": "https://esyverse.itch.io/"
   },
@@ -529,7 +535,7 @@
     "id": 65,
     "name": "Baldi's Basics",
     "cover": "{COVER_URL}/65.png",
-    "url": "{HTML_URL}/65.html",
+    "url": "{HTML_URL}/65-fixed.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics"
   },
@@ -545,7 +551,7 @@
     "id": 67,
     "name": "Big Tower Tiny Square",
     "cover": "{COVER_URL}/67.png",
-    "url": "{HTML_URL}/67.html",
+    "url": "{HTML_URL}/67-f.html",
     "author": "EvilObjective",
     "authorLink": "https://evilobjective.itch.io"
   },
@@ -621,7 +627,7 @@
     "id": 75,
     "name": "Bloons TD 5",
     "cover": "{COVER_URL}/75.png",
-    "url": "{HTML_URL}/75.html",
+    "url": "{HTML_URL}/75-fix.html",
     "author": "Ninja Kiwi",
     "authorLink": "https://ninjakiwi.com",
     "special": [
@@ -632,7 +638,7 @@
     "id": 76,
     "name": "Bob The Robber 2",
     "cover": "{COVER_URL}/76.png",
-    "url": "{HTML_URL}/76.html",
+    "url": "{HTML_URL}/76-fix.html",
     "author": "Meow Beast",
     "authorLink": "https://www.newgrounds.com/portal/view/585767"
   },
@@ -646,7 +652,7 @@
   },
   {
     "id": 78,
-    "name": "Burrito Bison",
+    "name": "Burrito Bison: Launcha Libre",
     "cover": "{COVER_URL}/78.png",
     "url": "{HTML_URL}/78.html",
     "author": "Juicy Beast",
@@ -689,7 +695,7 @@
     "id": 82,
     "name": "Cookie Clicker",
     "cover": "{COVER_URL}/82.png",
-    "url": "{HTML_URL}/82-aa.html",
+    "url": "{HTML_URL}/82-a.html",
     "author": "Orteil",
     "authorLink": "https://orteil.dashnet.org"
   },
@@ -716,7 +722,7 @@
     "id": 85,
     "name": "Cut the Rope",
     "cover": "{COVER_URL}/85.png",
-    "url": "{HTML_URL}/85.html",
+    "url": "{HTML_URL}/85-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -765,9 +771,12 @@
     "id": 90,
     "name": "Granny",
     "cover": "{COVER_URL}/90.png",
-    "url": "{HTML_URL}/90.html",
+    "url": "{HTML_URL}/90-fix2.html",
     "author": "DVloper",
-    "authorLink": "https://grannyhorror.com"
+    "authorLink": "https://grannyhorror.com",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 91,
@@ -965,7 +974,7 @@
     "id": 112,
     "name": "Wordle",
     "cover": "{COVER_URL}/112.png",
-    "url": "{HTML_URL}/112.html",
+    "url": "{HTML_URL}/112-fix.html",
     "author": "New York Times",
     "authorLink": "https://www.nytimes.com/games/wordle/index.html"
   },
@@ -1009,7 +1018,7 @@
     "id": 117,
     "name": "Space Waves",
     "cover": "{COVER_URL}/117.png",
-    "url": "{HTML_URL}/117.html",
+    "url": "{HTML_URL}/117-fix.html",
     "author": "do.games",
     "authorLink": "https://play.google.com/store/apps/dev?id=8163162718412732005&hl=en_US"
   },
@@ -1410,7 +1419,7 @@
     "id": 179,
     "name": "Soundboard",
     "cover": "{COVER_URL}/179.png",
-    "url": "{HTML_URL}/179.html",
+    "url": "{HTML_URL}/179-a.html",
     "author": "genizy",
     "authorLink": "https://github.com/genizy/soundboard/",
     "featured": true,
@@ -1699,7 +1708,7 @@
     "id": 212,
     "name": "Cut the Rope",
     "cover": "{COVER_URL}/212.png",
-    "url": "{HTML_URL}/212.html",
+    "url": "{HTML_URL}/212-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -1707,7 +1716,7 @@
     "id": 213,
     "name": "Cut the Rope: Time Travel",
     "cover": "{COVER_URL}/213.png",
-    "url": "{HTML_URL}/213.html",
+    "url": "{HTML_URL}/213-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -1715,7 +1724,7 @@
     "id": 214,
     "name": "Cut the Rope: Holiday Gift",
     "cover": "{COVER_URL}/214.png",
-    "url": "{HTML_URL}/214.html",
+    "url": "{HTML_URL}/214-fi.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -2236,7 +2245,7 @@
     "id": 265,
     "name": "Escape Road 2",
     "cover": "{COVER_URL}/265.png",
-    "url": "{HTML_URL}/265.html",
+    "url": "{HTML_URL}/265-fix.html",
     "author": "AzGames",
     "authorLink": "https://azgames.io/escape-road-2"
   },
@@ -2510,17 +2519,6 @@
     "url": "{HTML_URL}/295.html",
     "author": "Shared Dreams Studio",
     "authorLink": "https://play.google.com/store/apps/dev?id=6107531068522107777&hl=en_US"
-  },
-  {
-    "id": 296,
-    "name": "Play!.js",
-    "cover": "{COVER_URL}/296.png",
-    "url": "{HTML_URL}/296.html",
-    "author": "jpd002",
-    "authorLink": "https://github.com/jpd002/Play-",
-    "special": [
-      "emulator"
-    ]
   },
   {
     "id": 297,
@@ -3606,9 +3604,9 @@
     "id": 429,
     "name": "Code Editor",
     "cover": "{COVER_URL}/429.png",
-    "url": "{HTML_URL}/429.html",
+    "url": "{HTML_URL}/429-f.html",
     "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
+    "authorLink": "https://gn-math.dev",
     "special": [
       "tools"
     ]
@@ -3941,7 +3939,7 @@
     "id": 465,
     "name": "Cuphead",
     "cover": "{COVER_URL}/465.png",
-    "url": "{HTML_URL}/465.html",
+    "url": "{HTML_URL}/465-fix.html",
     "author": "Studio MDHR Entertainment Inc",
     "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
     "featured": true,
@@ -5010,7 +5008,7 @@
     "id": 589,
     "name": "Sonic CD",
     "cover": "{COVER_URL}/589.png",
-    "url": "{HTML_URL}/589.html",
+    "url": "{HTML_URL}/589-f.html",
     "author": "SEGA",
     "authorLink": "https://sega.com",
     "special": [
@@ -5021,8 +5019,8 @@
     "id": 590,
     "name": "Sonic Mania",
     "cover": "{COVER_URL}/590.png",
-    "url": "{HTML_URL}/590.html",
-    "author": "SEGA",
+    "url": "{HTML_URL}/590-f.html",
+    "author": "SEGA, crunch arcade",
     "authorLink": "https://sega.com",
     "special": [
       "port"
@@ -5032,7 +5030,7 @@
     "id": 591,
     "name": "Slime Rancher",
     "cover": "{COVER_URL}/591.png",
-    "url": "{HTML_URL}/591-a.html",
+    "url": "{HTML_URL}/591-awe.html",
     "author": "Monomi Park, Ported by Snubby.top",
     "authorLink": "https://monomipark.com/",
     "special": [
@@ -5055,7 +5053,7 @@
     "id": 593,
     "name": "Pac Man World 2",
     "cover": "{COVER_URL}/593.png",
-    "url": "{HTML_URL}/593.html",
+    "url": "{HTML_URL}/593-f.html",
     "author": "Full Fat Games",
     "authorLink": "https://www.full-fat.com/",
     "special": [
@@ -6247,7 +6245,7 @@
     "id": 712,
     "name": "Jumbo Mario",
     "cover": "{COVER_URL}/712.png",
-    "url": "{HTML_URL}/712.html",
+    "url": "{HTML_URL}/712-f.html",
     "author": "wik",
     "authorLink": "https://mfgg.net/index.php?act=resdb&param=02&c=2&id=41730",
     "special": [
@@ -6344,7 +6342,10 @@
     "cover": "{COVER_URL}/721.png",
     "url": "{HTML_URL}/721.html",
     "author": "Bun Muen, Slqnt",
-    "authorLink": "https://bunmuen.itch.io/shiftatmidnight"
+    "authorLink": "https://bunmuen.itch.io/shiftatmidnight",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 722,
@@ -6352,7 +6353,10 @@
     "cover": "{COVER_URL}/722.png",
     "url": "{HTML_URL}/722.html",
     "author": "Mike Klubnika, shxyder",
-    "authorLink": "https://mikeklubnika.itch.io/fused-240"
+    "authorLink": "https://mikeklubnika.itch.io/fused-240",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 723,
@@ -6360,7 +6364,10 @@
     "cover": "{COVER_URL}/723.png",
     "url": "{HTML_URL}/723.html",
     "author": "Blobfish, Individual/Stinkalistic",
-    "authorLink": "https://store.steampowered.com/app/1942280/Brotato/"
+    "authorLink": "https://store.steampowered.com/app/1942280/Brotato/",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 724,
@@ -6368,7 +6375,10 @@
     "cover": "{COVER_URL}/724.png",
     "url": "{HTML_URL}/724.html",
     "author": "Miziziziz, Deep Root Interactive, Individual/Stinkalistic",
-    "authorLink": "https://store.steampowered.com/app/2990640/Endoparasitic_2/"
+    "authorLink": "https://store.steampowered.com/app/2990640/Endoparasitic_2/",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 725,
@@ -6565,5 +6575,1013 @@
     "url": "{HTML_URL}/744-a.html",
     "author": "AZ Games",
     "authorLink": "https://azgames.io/"
+  },
+  {
+    "id": 745,
+    "name": "Tetris",
+    "cover": "{COVER_URL}/745.png",
+    "url": "{HTML_URL}/745.html",
+    "author": "Nintendo",
+    "authorLink": "https://www.nintendo.com/",
+    "special": [
+      "emulator",
+      "nes"
+    ]
+  },
+  {
+    "id": 746,
+    "name": "Fundamental Paper Novel",
+    "cover": "{COVER_URL}/746.png",
+    "url": "{HTML_URL}/746.html",
+    "author": "yakubell",
+    "authorLink": ":https://yakubelle.itch.io/fundamental-paper-novel",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 747,
+    "name": "Worst Time Simulator",
+    "cover": "{COVER_URL}/747.png",
+    "url": "{HTML_URL}/747.html",
+    "author": "omegafredo",
+    "authorLink": "https://omegafredo.github.io/worst-time-simulator/"
+  },
+  {
+    "id": 748,
+    "name": "Undertale Last Breath PHASE THREE",
+    "cover": "{COVER_URL}/748.png",
+    "url": "{HTML_URL}/748.html",
+    "author": "mario1d240",
+    "authorLink": "https://mario1d240.github.io/undertale-last-breath-remake-bad-time-simulator/"
+  },
+  {
+    "id": 749,
+    "name": "Super Monkey Ball 1&2",
+    "cover": "{COVER_URL}/749.png",
+    "url": "{HTML_URL}/749.html",
+    "author": "Amusement Vision, camthesaxman etc",
+    "authorLink": "https://monkeyball-online.pages.dev/"
+  },
+  {
+    "id": 750,
+    "name": "Five Nights at Last Breath",
+    "cover": "{COVER_URL}/750.png",
+    "url": "{HTML_URL}/750-u.html",
+    "author": "Free_Breath",
+    "authorLink": "https://free-breath.itch.io/five-night-at-last-breath-epstein",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 751,
+    "name": "Jeffrey Epstein Basics In Education And Kidnapping",
+    "cover": "{COVER_URL}/751.png",
+    "url": "{HTML_URL}/751.html",
+    "author": "Zakaria_ALZ",
+    "authorLink": "https://zakaria-alz.itch.io/jeffrey-epsteins-basics-in-education-and-kidnapping",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 752,
+    "name": "Bad Piggies",
+    "cover": "{COVER_URL}/752.png",
+    "url": "{HTML_URL}/752.html",
+    "author": "Rovio Entertainment, EDURocks",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.rovio.BadPiggies&hl=en_US",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 753,
+    "name": "Breaklock",
+    "cover": "{COVER_URL}/753.png",
+    "url": "{HTML_URL}/753.html",
+    "author": "Print More India",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.pmi.breaklock"
+  },
+  {
+    "id": 754,
+    "name": "Minecraft Pocket Edition",
+    "cover": "{COVER_URL}/754.png",
+    "url": "{HTML_URL}/754.html",
+    "author": "Mojang",
+    "authorLink": "https://mojang.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 755,
+    "name": "Brawl Simulator 3D",
+    "cover": "{COVER_URL}/755.png",
+    "url": "{HTML_URL}/755.html",
+    "author": "Fire Games, Supercell",
+    "authorLink": "https://yandex.com/games/developer/77286"
+  },
+  {
+    "id": 756,
+    "name": "Witch's Heart",
+    "cover": "{COVER_URL}/756.png",
+    "url": "{HTML_URL}/756-f.html",
+    "author": "IZ (BLUE STAR Entertainment)",
+    "authorLink": "https://bluestariz.web.fc2.com/zentai.html",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 757,
+    "name": "Ultrapool",
+    "cover": "{COVER_URL}/757.png",
+    "url": "{HTML_URL}/757.html",
+    "author": "Icedrop Games, mysmic",
+    "authorLink": "https://store.steampowered.com/app/4195110/Ultrapool/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 758,
+    "name": "CaseOh's Basics in Eating and Fast Food",
+    "cover": "{COVER_URL}/758.png",
+    "url": "{HTML_URL}/758a.html",
+    "author": "Ronezkj15",
+    "authorLink": "https://gamebanana.com/mods/507799",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Dice a Million",
+    "cover": "{COVER_URL}/759.png",
+    "url": "{HTML_URL}/759.html",
+    "author": "countlessnights, 2 Left Thumbs, NotRexed",
+    "authorLink": "https://store.steampowered.com/app/3430340/Dice_A_Million/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 760,
+    "name": "Overburden",
+    "cover": "{COVER_URL}/760.png",
+    "url": "{HTML_URL}/760.html",
+    "author": "notsospecialgames, shxyder",
+    "authorLink": "https://notsospecialgames.itch.io/overburden",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 761,
+    "name": "FISH",
+    "cover": "{COVER_URL}/761.png",
+    "url": "{HTML_URL}/761.html",
+    "author": "dmcaguy",
+    "authorLink": "https://dmcaguy.itch.io/fish",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 762,
+    "name": "Cheese Rolling",
+    "cover": "{COVER_URL}/762.png",
+    "url": "{HTML_URL}/762.html",
+    "author": "The Interviewed, wasm.com",
+    "authorLink": "https://store.steampowered.com/app/3809440/Cheese_Rolling/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 763,
+    "name": "Flying Gorilla 3D",
+    "cover": "{COVER_URL}/763.png",
+    "url": "{HTML_URL}/763.html",
+    "author": "Pinbit LLC",
+    "authorLink": "https://apps.apple.com/us/app/flying-gorilla/id1365028549",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 764,
+    "name": "Five Night's at Shrek's Hotel",
+    "cover": "{COVER_URL}/764.png",
+    "url": "{HTML_URL}/764.html",
+    "author": "rend-pii",
+    "authorLink": "https://rend-pii.itch.io/five-nights-at-shreks-hotel-2"
+  },
+  {
+    "id": 765,
+    "name": "Scary Shawarma Kiosk: the ANOMALY",
+    "cover": "{COVER_URL}/765.png",
+    "url": "{HTML_URL}/765.html",
+    "author": "kharbor_ykt",
+    "authorLink": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY"
+  },
+  {
+    "id": 766,
+    "name": "Suika Game",
+    "cover": "{COVER_URL}/766.png",
+    "url": "{HTML_URL}/766.html",
+    "author": "unknown",
+    "authorLink": "https://gn-math.dev"
+  },
+  {
+    "id": 767,
+    "name": "Stick Slasher",
+    "cover": "{COVER_URL}/767.png",
+    "url": "{HTML_URL}/767.html",
+    "author": "Beruke Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.BerukeGames.StickSlasher"
+  },
+  {
+    "id": 768,
+    "name": "Stickman Kombat 2D",
+    "cover": "{COVER_URL}/768.png",
+    "url": "{HTML_URL}/768.html",
+    "author": "GamePush",
+    "authorLink": "https://www.crazygames.com/game/stickman-kombat-2d"
+  },
+  {
+    "id": 769,
+    "name": "Stickman Duel",
+    "cover": "{COVER_URL}/769.png",
+    "url": "{HTML_URL}/769.html",
+    "author": "unknown",
+    "authorLink": "https://gn-math.dev"
+  },
+  {
+    "id": 770,
+    "name": "Sonic Robo Blast 2",
+    "cover": "{COVER_URL}/770.png",
+    "url": "{HTML_URL}/770-update.html",
+    "author": "Sonic Team Junior, KBHGames",
+    "authorLink": "https://www.srb2.org/"
+  },
+  {
+    "id": 771,
+    "name": "Hollow Knight: Silksong",
+    "cover": "{COVER_URL}/771.png",
+    "url": "{HTML_URL}/771-z.html",
+    "author": "Team Cherry, Edurocks",
+    "authorLink": "https://www.teamcherry.com.au/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Sam & Max Hit the Road",
+    "cover": "{COVER_URL}/772.png",
+    "url": "{HTML_URL}/772.html",
+    "author": "Lucasfilm",
+    "authorLink": "https://store.steampowered.com/app/355170/Sam__Max_Hit_the_Road/",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 773,
+    "name": "Command & Conquer",
+    "cover": "{COVER_URL}/773.png",
+    "url": "{HTML_URL}/773.html",
+    "author": "Westwood Studios",
+    "authorLink": "https://www.ea.com/games/command-and-conquer",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Mountain Bike Racer",
+    "cover": "{COVER_URL}/774.png",
+    "url": "{HTML_URL}/774.html",
+    "author": "stefano1234",
+    "authorLink": "https://www.construct.net/en/free-online-games/mountain-bike-runner-20988/play"
+  },
+  {
+    "id": 775,
+    "name": "Bart Bash",
+    "cover": "{COVER_URL}/775.png",
+    "url": "{HTML_URL}/775.html",
+    "author": "TeleSTOP",
+    "authorLink": "https://bartbash.com/"
+  },
+  {
+    "id": 776,
+    "name": "Your Only Move Is HUSTLE",
+    "cover": "{COVER_URL}/776.png",
+    "url": "{HTML_URL}/776.html",
+    "author": "ivysly",
+    "authorLink": "https://ivysly.itch.io/your-only-move-is-hustle",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Outhold",
+    "cover": "{COVER_URL}/777.png",
+    "url": "{HTML_URL}/777.html",
+    "author": "tellusgames",
+    "authorLink": "https://tellusgames.itch.io/outhold"
+  },
+  {
+    "id": 778,
+    "name": "Serial Experiments Lain",
+    "cover": "{COVER_URL}/778.png",
+    "url": "{HTML_URL}/778.html",
+    "author": "NBCUniversal Entertainment Japan, Pioneer Productions",
+    "authorLink": "https://laingame.net/"
+  },
+  {
+    "id": 779,
+    "name": "I Have No Mouth, and I Must Scream",
+    "cover": "{COVER_URL}/779.png",
+    "url": "{HTML_URL}/779.html",
+    "author": "Cyberdreams",
+    "authorLink": "https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 780,
+    "name": "Thing-Thing Arena 3",
+    "cover": "{COVER_URL}/780.png",
+    "url": "{HTML_URL}/780.html",
+    "author": "Weasel",
+    "authorLink": "https://www.newgrounds.com/portal/view/485863",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 781,
+    "name": "Scratch Inc",
+    "cover": "{COVER_URL}/781.png",
+    "url": "{HTML_URL}/781.html",
+    "author": "Makopaz",
+    "authorLink": "https://store.steampowered.com/app/3788420/Scratch_Inc/"
+  },
+  {
+    "id": 782,
+    "name": "Um Jammer Lammy",
+    "cover": "{COVER_URL}/782.png",
+    "url": "{HTML_URL}/782f.html",
+    "author": "NanaOn-Sha",
+    "authorLink": "https://www.retrogames.cc/psx-games/um-jammer-lammy-usa.html",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
+    "id": 783,
+    "name": "Apes vs Helium",
+    "cover": "{COVER_URL}/783.png",
+    "url": "{HTML_URL}/783.html",
+    "author": "mdtowerz",
+    "authorLink": "https://mdtowerz.itch.io/apesvshelium",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Gabriel's Awesome Schoolhouse (GASH)",
+    "cover": "{COVER_URL}/784.png",
+    "url": "{HTML_URL}/784.html",
+    "author": "Gabriel115GJ",
+    "authorLink": "https://gamejolt.com/games/GASH/877557",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 785,
+    "name": "Geometry Dash",
+    "cover": "{COVER_URL}/785.png",
+    "url": "{HTML_URL}/785-upd2.html",
+    "author": "RobTop Games",
+    "authorLink": "https://geometrydash.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 786,
+    "name": "Volley Random",
+    "cover": "{COVER_URL}/786.png",
+    "url": "{HTML_URL}/786.html",
+    "author": "RHM Interactive",
+    "authorLink": "https://www.crazygames.com/game/volley-random"
+  },
+  {
+    "id": 787,
+    "name": "BeatBlock",
+    "cover": "{COVER_URL}/787.png",
+    "url": "{HTML_URL}/787.html", 
+    "author": "BubbleTabby, sunsuke",
+    "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Vib-Ribbon",
+    "cover": "{COVER_URL}/788.png",
+    "url": "{HTML_URL}/788.html", 
+    "author": "NanaOn-Sha, Japan Studio",
+    "authorLink": "https://www.nanaon-sha.co.jp/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "Stardew Valley",
+    "cover": "{COVER_URL}/789.png",
+    "url": "{HTML_URL}/789-fix.html", 
+    "author": "The Secret Police Limited, ConcernedApe, Cirsius",
+    "authorLink": "https://www.stardewvalley.net/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Helltaker",
+    "cover": "{COVER_URL}/790.png",
+    "url": "{HTML_URL}/790.html", 
+    "author": "Vanripper, wasm.rip",
+    "authorLink": "https://vanripper.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "Who's Your Daddy",
+    "cover": "{COVER_URL}/791.png",
+    "url": "{HTML_URL}/791.html", 
+    "author": "Evil Tortilla Games, reeyuki",
+    "authorLink": "https://store.steampowered.com/app/427730/Whos_Your_Daddy/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 792,
+    "name": "Escape Road 3",
+    "cover": "{COVER_URL}/792.png",
+    "url": "{HTML_URL}/792.html", 
+    "author": "AzGames",
+    "authorLink": "https://azgames.io/escape-road-3"
+  },
+  {
+    "id": 793,
+    "name": "Lethal Ape",
+    "cover": "{COVER_URL}/793.png",
+    "url": "{HTML_URL}/793.html", 
+    "author": "StellaDev",
+    "authorLink": "https://stella-dev.itch.io/lethal-ape",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Fear & Hunger 2: Termina",
+    "cover": "{COVER_URL}/794.png",
+    "url": "{HTML_URL}/794-fixed.html", 
+    "author": "Miro Haverinen, Happy Paintings",
+    "authorLink": "https://store.steampowered.com/app/2171440/Fear__Hunger_2_Termina/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 795,
+    "name": "UvuvwevwevweOnyetenvewveUgwemubwemOssas",
+    "cover": "{COVER_URL}/795.png",
+    "url": "{HTML_URL}/795.html", 
+    "author": "Zakaria_ALZ",
+    "authorLink": "https://gamebanana.com/mods/660542",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 796,
+    "name": "Slendytubbies 1",
+    "cover": "{COVER_URL}/796.png",
+    "url": "{HTML_URL}/796.html", 
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 797,
+    "name": "Fih",
+    "cover": "{COVER_URL}/797.png",
+    "url": "{HTML_URL}/797.html", 
+    "author": "starrymari",
+    "authorLink": "https://starrymari.itch.io/fih",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 798,
+    "name": "Hungry Lamu",
+    "cover": "{COVER_URL}/798.png",
+    "url": "{HTML_URL}/798.html", 
+    "author": "kulurc / kulu",
+    "authorLink": "https://kulurc.itch.io/hungry-lamu"
+  },
+  {
+    "id": 799,
+    "name": "Hungry Lamu 2",
+    "cover": "{COVER_URL}/799.png",
+    "url": "{HTML_URL}/799-fix.html", 
+    "author": "kulurc / kulu",
+    "authorLink": "https://kulurc.itch.io/hungry-lamu-2"
+  },
+  {
+    "id": 800,
+    "name": "Rocket Goal.io",
+    "cover": "{COVER_URL}/800.png",
+    "url": "{HTML_URL}/800-fix.html", 
+    "author": "Rocket Goal team",
+    "authorLink": "https://rocketgoal.io"
+  },
+  {
+    "id": 801,
+    "name": "Trees Hate You",
+    "cover": "{COVER_URL}/801.png",
+    "url": "{HTML_URL}/801-fix.html", 
+    "author": "tykenn",
+    "authorLink": "https://tykenn.itch.io/trees-hate-you"
+  },
+  {
+    "id": 802,
+    "name": "Scampton The Great",
+    "cover": "{COVER_URL}/802.png",
+    "url": "{HTML_URL}/802.html", 
+    "author": "sad_bread, shyxder",
+    "authorLink": "https://gamejolt.com/games/1225/1015970",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 803,
+    "name": "Bendy and the Ink Machine: ALL CHAPTERS",
+    "cover": "{COVER_URL}/803.png",
+    "url": "{HTML_URL}/803-fix.html", 
+    "author": "Joey Drew Studios",
+    "authorLink": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 804,
+    "name": "Vampire Survivors",
+    "cover": "{COVER_URL}/804.png",
+    "url": "{HTML_URL}/804.html", 
+    "author": "Poncle",
+    "authorLink": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
+  },
+  {
+    "id": 805,
+    "name": "Plague Inc",
+    "cover": "{COVER_URL}/805.png",
+    "url": "{HTML_URL}/805.html", 
+    "author": "Ndemic Creations, Reeyuki",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 806,
+    "name": "Slendytubbies 2",
+    "cover": "{COVER_URL}/806.png",
+    "url": "{HTML_URL}/806.html",  
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 807,
+    "name": "Slendytubbies 2D",
+    "cover": "{COVER_URL}/807.png",
+    "url": "{HTML_URL}/807.html",  
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 808,
+    "name": "Spaceflight Simulator",
+    "cover": "{COVER_URL}/808.png",
+    "url": "{HTML_URL}/808.html",  
+    "author": "Team Curiosity",
+    "authorLink": "https://store.steampowered.com/app/1718870/Spaceflight_Simulator/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 809,
+    "name": "Rhythm Heaven",
+    "cover": "{COVER_URL}/809.png",
+    "url": "{HTML_URL}/809.html",  
+    "author": "Kazuyoshi Osawa, Nintendo",
+    "authorLink": "https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Need For Speed: Carbon",
+    "cover": "{COVER_URL}/810.png",
+    "url": "{HTML_URL}/810-fix.html",  
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/en/games/need-for-speed",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Need For Speed: Most Wanted",
+    "cover": "{COVER_URL}/811.png",
+    "url": "{HTML_URL}/811.html",  
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/en/games/need-for-speed",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+  {
+    "id": 812,
+    "name": "Need For Speed: Underground 2",
+    "cover": "{COVER_URL}/812.png",
+    "url": "{HTML_URL}/812.html",  
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/en/games/need-for-speed",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+  {
+    "id": 813,
+    "name": "Five Nights at Frickbear's 3",
+    "cover": "{COVER_URL}/813.png",
+    "url": "{HTML_URL}/813-f3.html",  
+    "author": "SpookyRick, Reeyuki",
+    "authorLink": "https://gamejolt.com/games/frickbears3/930477",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 814,
+    "name": "MiSide",
+    "cover": "{COVER_URL}/814.png",
+    "url": "{HTML_URL}/814.html",  
+    "author": "AIHASTO",
+    "authorLink": "https://store.steampowered.com/app/2527500/MiSide/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 815,
+    "name": "Baldi's Basics The Ultra Decompile",
+    "cover": "{COVER_URL}/815.png",
+    "url": "{HTML_URL}/815.html",  
+    "author": "SeenWonderAlex",
+    "authorLink": "https://seenwonderalex.itch.io/baldis-basics-tud"
+  },
+  {
+    "id": 816,
+    "name": "-3",
+    "cover": "{COVER_URL}/816.png",
+    "url": "{HTML_URL}/816.html",  
+    "author": "Mauzer2137",
+    "authorLink": "https://gamebanana.com/mods/647218",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 817,
+    "name": "-b",
+    "cover": "{COVER_URL}/817.png",
+    "url": "{HTML_URL}/817-f.html",  
+    "author": "bermud",
+    "authorLink": "https://gamebanana.com/mods/669311",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 818,
+    "name": "t³ (T cubed)",
+    "cover": "{COVER_URL}/818.png",
+    "url": "{HTML_URL}/818.html",  
+    "author": "Blidb",
+    "authorLink": "https://gamebanana.com/mods/674558",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 819,
+    "name": "20 Minutes Till Dawn",
+    "cover": "{COVER_URL}/819.png",
+    "url": "{HTML_URL}/819-fix2.html",  
+    "author": "Flanne, Rah, Bog",
+    "authorLink": "https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 820,
+    "name": "Phoenix Wright - Ace Attorney",
+    "cover": "{COVER_URL}/820.png",
+    "url": "{HTML_URL}/820-fix.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 821,
+    "name": "Apollo Justice - Ace Attorney",
+    "cover": "{COVER_URL}/821.png",
+    "url": "{HTML_URL}/821-fix.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 822,
+    "name": "Phoenix Wright - Ace Attorney - Justice for All",
+    "cover": "{COVER_URL}/822.png",
+    "url": "{HTML_URL}/822.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 823,
+    "name": "Ace Attorney Investigations - Miles Edgeworth",
+    "cover": "{COVER_URL}/823.png",
+    "url": "{HTML_URL}/823-fix.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 824,
+    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
+    "cover": "{COVER_URL}/824.png",
+    "url": "{HTML_URL}/824.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 825,
+    "name": "Cruelty Squad",
+    "cover": "{COVER_URL}/825.png",
+    "url": "{HTML_URL}/825.html",  
+    "author": "Consumer Softproducts, dizzy",
+    "authorLink": "https://store.steampowered.com/app/1388770/Cruelty_Squad/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 826,
+    "name": "Just Shapes & Beats",
+    "cover": "{COVER_URL}/826.png",
+    "url": "{HTML_URL}/826-f.html",  
+    "author": "Berzerk Studio",
+    "authorLink": "https://store.steampowered.com/app/531510/Just_Shapes__Beats/",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+  {
+    "id": 827,
+    "name": "Totally Accurate Battle Simulator (TABS)",
+    "cover": "{COVER_URL}/827.png",
+    "url": "{HTML_URL}/827-f.html",  
+    "author": "Landfall",
+    "authorLink": "https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+  {
+    "id": 828,
+    "name": "Animal Crossing (GAMECUBE)",
+    "cover": "{COVER_URL}/828.png",
+    "url": "{HTML_URL}/828.html",  
+    "author": "Nintendo, turtlekiosk",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 829,
+    "name": "Touhou 1 Touhou-Reiiden",
+    "cover": "{COVER_URL}/829.png",
+    "url": "{HTML_URL}/829.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 830,
+    "name": "Touhou 2 Touhou-Fuumaroku",
+    "cover": "{COVER_URL}/830.png",
+    "url": "{HTML_URL}/830.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 831,
+    "name": "Touhou 3 Touhou-Yumejikuu",
+    "cover": "{COVER_URL}/831.png",
+    "url": "{HTML_URL}/831.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 832,
+    "name": "Touhou 4 Touhou-Gensokyou",
+    "cover": "{COVER_URL}/832.png",
+    "url": "{HTML_URL}/832.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 833,
+    "name": "Touhou 5 Touhou-Kaikidan",
+    "cover": "{COVER_URL}/833.png",
+    "url": "{HTML_URL}/833.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 834,
+    "name": "I Wanna Be The Guy",
+    "cover": "{COVER_URL}/834.png",
+    "url": "{HTML_URL}/834.html",  
+    "author": "Michael \"Kayin\" O'Reilly",
+    "authorLink": "https://iwbtg.kayin.moe/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 835,
+    "name": "YoHoHo.io",
+    "cover": "{COVER_URL}/835.png",
+    "url": "{HTML_URL}/835.html",  
+    "author": "Exodragon Games",
+    "authorLink": "https://exodragon.com/"
+  },
+  {
+    "id": 836,
+    "name": "Friday Night Funkin vs Shucks v2",
+    "cover": "{COVER_URL}/836.png",
+    "url": "{HTML_URL}/836.html",  
+    "author": "CurtisDev",
+    "authorLink": "https://gamebanana.com/mods/519908",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 837,
+    "name": "Into Space 2",
+    "cover": "{COVER_URL}/837.png",
+    "url": "{HTML_URL}/837.html",  
+    "author": "Armor Games",
+    "authorLink": "https://www.newgrounds.com/portal/view/603934",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 838,
+    "name": "Vena",
+    "cover": "{COVER_URL}/838.png",
+    "url": "{HTML_URL}/838.html",  
+    "author": "Leonhard Kohl-Lörting",
+    "authorLink": "https://loerting.itch.io/vena"
+  },
+  {
+    "id": 839,
+    "name": "s.p.l.i.t",
+    "cover": "{COVER_URL}/839.png",
+    "url": "{HTML_URL}/839.html",  
+    "author": "Mike Klubnika",
+    "authorLink": "https://store.steampowered.com/app/3684610/split/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 840,
+    "name": "My Talking Baby Hippo",
+    "cover": "{COVER_URL}/840.png",
+    "url": "{HTML_URL}/840-fix2.html",  
+    "author": "Outfit7",
+    "authorLink": "https://outfit7.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 841,
+    "name": "WarioWare: Touched!",
+    "cover": "{COVER_URL}/841.png",
+    "url": "{HTML_URL}/841.html",  
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "nds"
+    ]
   }
 ]
